@@ -1,8 +1,16 @@
 [
+    {
+    "url": "https://github.com/gundemsaniye-dot/CarWidgetSound/raw/refs/heads/main/sound/Get%20Money%20Stay%20Pretty.mp3",
+    "soundName": "Get Money Stay Pretty",
+    "tags": ["Money", "Stay", "Pretty", "Get"],
+    "badge": "Most Used"
+  },
+  
   {
     "url": "https://github.com/gundemsaniye-dot/CarWidgetSound/raw/refs/heads/main/sound/bounce-splash.mp3",
     "soundName": "Bounce Splash",
     "tags": ["bounce", "splash", "ui", "effect", "short"],
     "badge": "New"
   }
+  
 ]
